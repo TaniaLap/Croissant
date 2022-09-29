@@ -1,8 +1,14 @@
+body {
+  background-color: bisque;
+}
 h1 {
   text-align: center;
+  margin-top: 20px;
 }
 p {
   text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .links {
   text-align: center;
@@ -10,3 +16,18 @@ p {
 .link {
   padding-right: 50px;
 }
+.color-link {
+  color: green;
+}
+/* .email-link {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 28px;
+  text-decoration: none;
+  padding-bottom: 30px;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+} */
