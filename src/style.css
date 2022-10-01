@@ -13,21 +13,8 @@ p {
 .links {
   text-align: center;
 }
-.link {
-  padding-right: 50px;
-}
-.color-link {
+
+.links a {
+  margin: 0 20px;
   color: green;
 }
-/* .email-link {
-  display: flex;
-  justify-content: center;
-  color: var(--primary-color);
-  font-size: 28px;
-  text-decoration: none;
-  padding-bottom: 30px;
-}
-
-.email-link:hover {
-  text-decoration: underline;
-} */
